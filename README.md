@@ -51,6 +51,7 @@ Below is a high-level flowchart of the core functionalities:
 ## Contract Address -
 (0x8D7b9552D1bDB919CCF9dCd311ea5D88433D74A0)
 
+![image](https://github.com/user-attachments/assets/4c1eb2d7-79ac-4c4a-abda-8aff76bcbcec)
 
 The contract address for the deployed Employee Identity NFT smart contract will be provided upon deployment to the Ethereum network. 
 
