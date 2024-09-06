@@ -73,5 +73,13 @@ For inquiries or support regarding the Employee Identity NFT contract, please re
 Thank you for your interest in the Employee Identity NFT project!
 
 
+ <html>
+     <head> <h3 align="left">Support:</h3></head>
+     <body><p><a href="https://www.buymeacoffee.com/Sadique"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sadique Ahmed" /></a></p><br><br>
+</body>
+   </html>
+
+
+
 ![image](https://github.com/user-attachments/assets/aca5d0b4-ed36-41e1-91ed-7088c5999e74)
 
